@@ -1,0 +1,5 @@
+2021/03/22-16:02:47.011 949e Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.findlaw.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-16:46:27.326 99ce Level-0 table #5: started
+2021/03/22-16:46:27.351 99ce Level-0 table #5: 828 bytes OK
+2021/03/22-16:46:27.382 99ce Delete type=0 #3
+2021/03/22-16:46:27.382 99ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

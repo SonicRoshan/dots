@@ -1,0 +1,5 @@
+2021/03/24-17:15:54.006 1fcc Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.bookmyshow.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-17:15:56.034 2357 Level-0 table #5: started
+2021/03/24-17:15:56.075 2357 Level-0 table #5: 217 bytes OK
+2021/03/24-17:15:56.126 2357 Delete type=0 #3
+2021/03/24-17:15:56.126 2357 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

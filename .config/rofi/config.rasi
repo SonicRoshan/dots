@@ -1,0 +1,53 @@
+configuration {
+  display-drun: ""; 
+  show-icons: true;
+}
+
+* {
+  background-color: #121212;
+  text-color: #ffffff;
+  spacing: 0;
+  width: 512px;
+  height: 400px;
+  font: "Rubik Bold 12";
+}
+
+element-icon {
+  size: 24px;
+  margin: 0 8px 0 0;
+}
+
+element-text {
+  margin: 4px 0 0 0;
+}
+
+inputbar {
+  children: [prompt, entry];
+}
+
+prompt {
+  enabled: true;
+  font: "Rubik 16";
+  padding: 14 0 0 20;
+  text-color: #ffffff;
+}
+
+entry {
+  padding: 16px;
+  margin: 0 0 0 4px;
+}
+
+listview {
+  cycle: false;
+  margin: 0 16px 0 16px;
+  scrollbar: false;
+}
+
+element {
+  padding: 16px;
+}
+
+element selected {
+  background-color: #0d47a1;
+  border-radius: 4px;
+}

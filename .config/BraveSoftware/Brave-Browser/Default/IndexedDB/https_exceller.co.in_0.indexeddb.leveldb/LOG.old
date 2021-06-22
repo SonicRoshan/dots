@@ -1,0 +1,24 @@
+2021/05/23-23:04:58.347 a3e9 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_exceller.co.in_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/23-23:04:58.347 a3e9 Recovering log #39
+2021/05/23-23:04:58.347 a3e9 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_exceller.co.in_0.indexeddb.leveldb/000039.log 
+2021/05/23-23:04:58.504 a3e9 Level-0 table #45: started
+2021/05/23-23:04:58.546 a3e9 Level-0 table #45: 581 bytes OK
+2021/05/23-23:04:58.621 a3e9 Delete type=0 #39
+2021/05/23-23:04:58.622 a3e9 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/23-23:05:03.475 a3a6 Level-0 table #47: started
+2021/05/23-23:05:03.517 a3a6 Level-0 table #47: 2162 bytes OK
+2021/05/23-23:05:03.592 a3a6 Delete type=0 #44
+2021/05/23-23:05:03.593 a3a6 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1576 : 1
+2021/05/23-23:05:03.593 a3a6 Compacting 1@0 + 1@1 files
+2021/05/23-23:05:03.638 a3a6 Generated table #48@0: 29 keys, 1420 bytes
+2021/05/23-23:05:03.638 a3a6 Compacted 1@0 + 1@1 files => 1420 bytes
+2021/05/23-23:05:03.694 a3a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/23-23:05:03.695 a3a6 Delete type=2 #47
+2021/05/23-23:05:03.695 a3a6 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1576 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/23-23:05:42.890 a3e9 Compacting 1@1 + 1@2 files
+2021/05/23-23:05:42.924 a3e9 Generated table #49@1: 37 keys, 1629 bytes
+2021/05/23-23:05:42.924 a3e9 Compacted 1@1 + 1@2 files => 1629 bytes
+2021/05/23-23:05:42.952 a3e9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/23-23:05:42.952 a3e9 Delete type=2 #48
+2021/05/23-23:05:42.952 a3e9 Delete type=2 #42
+2021/05/23-23:05:42.952 a3e9 Delete type=2 #45

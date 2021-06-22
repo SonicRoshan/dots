@@ -1,0 +1,6 @@
+2021/06/12-16:59:13.935 d60 Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_terraria.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/06/12-16:59:14.037 d60 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_terraria.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-17:05:50.739 fbf Level-0 table #5: started
+2021/06/12-17:05:50.772 fbf Level-0 table #5: 1895 bytes OK
+2021/06/12-17:05:50.811 fbf Delete type=0 #3
+2021/06/12-17:05:50.812 fbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

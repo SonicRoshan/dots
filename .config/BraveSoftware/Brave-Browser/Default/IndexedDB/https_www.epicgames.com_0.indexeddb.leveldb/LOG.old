@@ -1,0 +1,8 @@
+2021/06/11-14:11:53.838 40e21 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/11-14:11:53.902 40e21 Recovering log #4528
+2021/06/11-14:11:53.902 40e21 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.epicgames.com_0.indexeddb.leveldb/004528.log 
+2021/06/11-14:12:11.978 40d15 Level-0 table #4532: started
+2021/06/11-14:12:12.049 40d15 Level-0 table #4532: 0 bytes OK
+2021/06/11-14:12:12.322 40d15 Delete type=0 #4528
+2021/06/11-14:12:12.415 40d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/11-14:12:12.427 40d37 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

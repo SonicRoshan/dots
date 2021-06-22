@@ -1,0 +1,60 @@
+2021/04/11-12:11:15.366 18ec Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_learnapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/11-12:11:15.366 18ec Recovering log #1270
+2021/04/11-12:11:15.366 18ec Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_learnapp.com_0.indexeddb.leveldb/001270.log 
+2021/04/11-12:12:27.313 18ef Level-0 table #1275: started
+2021/04/11-12:12:27.409 18ef Level-0 table #1275: 1192638 bytes OK
+2021/04/11-12:12:27.524 18ef Delete type=0 #1270
+2021/04/11-12:12:28.611 18ec Compacting 1@1 + 1@2 files
+2021/04/11-12:12:28.687 18ec Generated table #1276@1: 1360 keys, 323806 bytes
+2021/04/11-12:12:28.687 18ec Compacted 1@1 + 1@2 files => 323806 bytes
+2021/04/11-12:12:28.809 18ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:12:28.809 18ec Delete type=2 #1272
+2021/04/11-12:12:28.809 18ec Delete type=2 #1275
+2021/04/11-12:13:45.871 18c4 Level-0 table #1278: started
+2021/04/11-12:13:45.937 18c4 Level-0 table #1278: 987800 bytes OK
+2021/04/11-12:13:46.039 18c4 Delete type=0 #1274
+2021/04/11-12:13:47.392 18c4 Compacting 1@1 + 1@2 files
+2021/04/11-12:13:47.501 18c4 Generated table #1279@1: 1355 keys, 323980 bytes
+2021/04/11-12:13:47.501 18c4 Compacted 1@1 + 1@2 files => 323980 bytes
+2021/04/11-12:13:47.625 18c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:13:47.626 18c4 Delete type=2 #1278
+2021/04/11-12:13:47.626 18c4 Delete type=2 #1276
+2021/04/11-12:15:05.034 18ff Level-0 table #1281: started
+2021/04/11-12:15:05.241 18ff Level-0 table #1281: 985351 bytes OK
+2021/04/11-12:15:05.362 18ff Delete type=0 #1277
+2021/04/11-12:15:06.897 18ff Compacting 1@1 + 1@2 files
+2021/04/11-12:15:07.002 18ff Generated table #1282@1: 1360 keys, 323897 bytes
+2021/04/11-12:15:07.002 18ff Compacted 1@1 + 1@2 files => 323897 bytes
+2021/04/11-12:15:07.130 18ff compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:15:07.130 18ff Delete type=2 #1281
+2021/04/11-12:15:07.130 18ff Delete type=2 #1279
+2021/04/11-12:16:24.133 18ef Level-0 table #1284: started
+2021/04/11-12:16:24.267 18ef Level-0 table #1284: 992333 bytes OK
+2021/04/11-12:16:24.402 18ef Delete type=0 #1280
+2021/04/11-12:16:26.115 18ef Compacting 1@1 + 1@2 files
+2021/04/11-12:16:26.181 18ef Generated table #1285@1: 1355 keys, 323922 bytes
+2021/04/11-12:16:26.181 18ef Compacted 1@1 + 1@2 files => 323922 bytes
+2021/04/11-12:16:26.272 18ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:16:26.273 18ef Delete type=2 #1282
+2021/04/11-12:16:26.273 18ef Delete type=2 #1284
+2021/04/11-12:17:42.396 18ff Level-0 table #1287: started
+2021/04/11-12:17:42.541 18ff Level-0 table #1287: 987335 bytes OK
+2021/04/11-12:17:42.648 18ff Delete type=0 #1283
+2021/04/11-12:17:44.343 1c5c Compacting 1@1 + 1@2 files
+2021/04/11-12:17:44.414 1c5c Generated table #1288@1: 1360 keys, 323812 bytes
+2021/04/11-12:17:44.414 1c5c Compacted 1@1 + 1@2 files => 323812 bytes
+2021/04/11-12:17:44.510 1c5c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:17:44.510 1c5c Delete type=2 #1287
+2021/04/11-12:17:44.510 1c5c Delete type=2 #1285
+2021/04/11-12:18:11.820 18ef Level-0 table #1290: started
+2021/04/11-12:18:11.862 18ef Level-0 table #1290: 321983 bytes OK
+2021/04/11-12:18:11.888 18ef Delete type=0 #1286
+2021/04/11-12:18:11.888 18ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/11-12:18:11.889 18ef Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x09\x02\x01\x14\x00w\x00a\x00t\x00c\x00h\x00e\x00d\x00-\x00l\x00i\x00v\x00e\x00-\x00c\x00l\x00a\x00s\x00s\x00-\x009' @ 11959473 : 1
+2021/04/11-12:18:11.889 18ef Compacting 1@1 + 1@2 files
+2021/04/11-12:18:11.920 18ef Generated table #1291@1: 1358 keys, 324114 bytes
+2021/04/11-12:18:11.920 18ef Compacted 1@1 + 1@2 files => 324114 bytes
+2021/04/11-12:18:11.946 18ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-12:18:11.946 18ef Delete type=2 #1290
+2021/04/11-12:18:11.946 18ef Delete type=2 #1288
+2021/04/11-12:18:11.946 18ef Manual compaction at level-1 from '\x00\x01\x09\x02\x01\x14\x00w\x00a\x00t\x00c\x00h\x00e\x00d\x00-\x00l\x00i\x00v\x00e\x00-\x00c\x00l\x00a\x00s\x00s\x00-\x009' @ 11959473 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/06/18-17:43:21.499 1127 Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb since it was missing.
+2021/06/18-17:43:21.614 1127 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sejda.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/18-18:50:32.349 17a6 Level-0 table #5: started
+2021/06/18-18:50:32.390 17a6 Level-0 table #5: 1376 bytes OK
+2021/06/18-18:50:32.417 17a6 Delete type=0 #3
+2021/06/18-18:50:32.417 17a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

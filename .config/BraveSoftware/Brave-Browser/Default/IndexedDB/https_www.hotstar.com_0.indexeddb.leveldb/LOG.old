@@ -1,0 +1,15 @@
+2021/04/10-20:49:47.744 1d7f Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/10-20:49:47.745 1d7f Recovering log #7
+2021/04/10-20:49:47.745 1d7f Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/000007.log 
+2021/04/10-20:49:50.351 1d09 Level-0 table #11: started
+2021/04/10-20:49:50.384 1d09 Level-0 table #11: 190 bytes OK
+2021/04/10-20:49:50.412 1d09 Delete type=0 #7
+2021/04/10-20:49:50.412 1d09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/10-20:49:50.412 1d09 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 4 : 1
+2021/04/10-20:49:50.412 1d09 Compacting 1@1 + 1@2 files
+2021/04/10-20:49:50.451 1d09 Generated table #12@1: 4 keys, 236 bytes
+2021/04/10-20:49:50.451 1d09 Compacted 1@1 + 1@2 files => 236 bytes
+2021/04/10-20:49:50.478 1d09 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/10-20:49:50.478 1d09 Delete type=2 #11
+2021/04/10-20:49:50.478 1d09 Delete type=2 #5
+2021/04/10-20:49:50.479 1d09 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 4 : 1 .. (end); will stop at (end)

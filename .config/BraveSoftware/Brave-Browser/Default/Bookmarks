@@ -1,0 +1,195 @@
+{
+   "checksum": "7ac0abdb5411587b241a6a4960c43e05",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13260513111286892",
+            "guid": "c63273e1-5475-4d1d-bf02-757de537b814",
+            "id": "5",
+            "name": "FiraCode/README.txt at master · tonsky/FiraCode · GitHub",
+            "type": "url",
+            "url": "https://github.com/tonsky/FiraCode/blob/master/distr/README.txt"
+         }, {
+            "date_added": "13261842481996158",
+            "guid": "91ed5d88-963c-4b55-9b35-d6fb77274995",
+            "id": "7",
+            "name": "d",
+            "type": "url",
+            "url": "https://www.amibroker.com/guide/a_funref.html"
+         }, {
+            "date_added": "13265373717686747",
+            "guid": "ce926724-c1f2-4ee1-a2ae-93f320c56b0b",
+            "id": "9",
+            "name": "Firebase Python SDK",
+            "type": "url",
+            "url": "https://firebase.google.com/docs/firestore/manage-data/structure-data"
+         }, {
+            "date_added": "13265468706854183",
+            "guid": "835b4435-a679-4893-8811-0a6df7c0b5b4",
+            "id": "11",
+            "name": "Step by Step: Build Your Custom Real-Time Object Detector | by Alaa Sinjab | Towards Data Science",
+            "type": "url",
+            "url": "https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d"
+         }, {
+            "date_added": "13265808204137611",
+            "guid": "c5852be5-0b2d-4a1f-a372-f406384b1a1e",
+            "id": "13",
+            "name": "JavaScript Event KeyCodes",
+            "type": "url",
+            "url": "https://keycode.info/"
+         }, {
+            "date_added": "13265808312481016",
+            "guid": "577e692d-c02b-4a98-b874-367c16b0079f",
+            "id": "14",
+            "name": "Linux console/Keyboard configuration - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration#Listing_keymaps"
+         }, {
+            "date_added": "13265983742086588",
+            "guid": "3e4a2c9d-5281-4314-8ffb-9c463bfe3087",
+            "id": "16",
+            "name": "TensorFlow 2 Object Detection API With Google Colab | by Nisarg Kapkar | The Startup | Medium",
+            "type": "url",
+            "url": "https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQzZmZiYjhhZGUwMWJiNGZhMmYyNWNmYjEwOGNjZWI4ODM0MDZkYWMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MjE1MDk3NjQsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMDkyMDk3ODU1NTAyNDU3NTIwOCIsImVtYWlsIjoic29uaWNyb3NoYW4xMjJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJSb3NoYW4gTWVodGEiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g0aWhkc2dqVlkxOTBHRE1GT3VNOGxnM3N0MGhDa0VwczVCZmU5clE9czk2LWMiLCJnaXZlbl9uYW1lIjoiUm9zaGFuIiwiZmFtaWx5X25hbWUiOiJNZWh0YSIsImlhdCI6MTYyMTUxMDA2NCwiZXhwIjoxNjIxNTEzNjY0LCJqdGkiOiI3OTVkZjYzZGIxM2RhMWE4ZTFiYTUzNTkzNTIwMWU0N2I0ZmM5MzViIn0.RnJIpZyfDvA3nxQWkifK1Ev1NBHmlwCZB1QbR5oilzxY4-rTthg96M-Yn9vMwWOrGydkp3V7-_28sIXkD-EFgXPv6xgUPcUAjwa_a2UeNS5NgcK0PCd2Hkvi0j8BEetgEmdlWtp2S7X5lbFccaApxWlqT3cGcRSsrIvqOmd_aW0HNUG18J9N3LRlJOP1tkTH0XjqIOm3z_1kQ1sRloCqLaClzSl_QvV5slsBx8sJgsj26Y2f8hC_APtUMPSr3z4owX7m69bcYHEcQHyzIz8DaUElbRYGvIskBeKtlY79g4UpgNs9Wii-dcF9yUP621xBJKGj8e4vNpMJLR6I8uEWBg"
+         }, {
+            "date_added": "13265983755830500",
+            "guid": "e1fd0138-42ff-414b-b4ef-a3ded6dbc049",
+            "id": "17",
+            "name": "Training Custom Object Detector — TensorFlow 2 Object Detection API tutorial documentation",
+            "type": "url",
+            "url": "https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#configuring-a-training-job"
+         }, {
+            "date_added": "13265984169462444",
+            "guid": "bcc1d89f-0f89-4d81-a516-2eb519ecc103",
+            "id": "18",
+            "name": "Prepare a short paper on the \"right to disconnect\" | UNV Online Volunteering service",
+            "type": "url",
+            "url": "https://www.onlinevolunteering.org/en/unhcr-headquarters-geneva/prepare-short-paper-right-disconnect"
+         }, {
+            "date_added": "13265984399062463",
+            "guid": "76f7a1a9-9d39-4c1d-bb96-1fa7f47be9f2",
+            "id": "19",
+            "name": "Online Fundraising campaign as COVID-19 emergency response | UNV Online Volunteering service",
+            "type": "url",
+            "url": "https://www.onlinevolunteering.org/en/youth-press-and-development-organisation/online-fundraising-campaign-covid-19-emergency-response-9"
+         }, {
+            "date_added": "13266229866479675",
+            "guid": "cdc57dfb-2e47-4355-aad3-3b25bcac4c70",
+            "id": "21",
+            "name": "329533-2019-2021-syllabus.pdf",
+            "type": "url",
+            "url": "https://www.cambridgeinternational.org/Images/329533-2019-2021-syllabus.pdf"
+         }, {
+            "date_added": "13266242396773458",
+            "guid": "5c618c74-a365-4e15-856d-dbb76bccfc57",
+            "id": "23",
+            "name": "Garvit Agarwal - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1OnUsQQbgxmmTMoOzclT6KFiKpEshG0eeYx87f5i-n_E/edit?ts=60aa39b3#gid=0"
+         }, {
+            "date_added": "13266416084002990",
+            "guid": "d1c1ba31-20ea-4d49-8f19-cb03874c97b8",
+            "id": "25",
+            "name": "Graphene-Python",
+            "type": "url",
+            "url": "https://docs.graphene-python.org/en/latest/"
+         }, {
+            "date_added": "13267948590542561",
+            "guid": "7958cf41-8695-4970-beb7-b17840bdeb42",
+            "id": "27",
+            "name": "11_9608_12_2018_144492.indd",
+            "type": "url",
+            "url": "https://paper.sc/doc/5c8ddbf49c2fd6005d4e2ebb/"
+         }, {
+            "date_added": "13268248731993743",
+            "guid": "9abb319a-22bd-482a-bc15-17c37decfc80",
+            "id": "29",
+            "name": "Doesn't detect my external monitor after update to nvidia 440.44.8 / Newbie Corner / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=251846"
+         }, {
+            "children": [ {
+               "date_added": "13268284534642296",
+               "guid": "6eba59e0-8918-4c10-9ff7-28442f3aa9ab",
+               "id": "32",
+               "name": "xorg not running on intel graphics monitor - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=xorg+not+running+on+intel+graphics+monitor&oq=xorg+not+running+on+intel+graphics+monitor&aqs=chrome..69i57.8106j0j1&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13268284534642484",
+               "guid": "be20c0a6-e17c-4afa-8700-4d6101682b4c",
+               "id": "33",
+               "name": "Use integrated graphics for display and NVIDIA GPU for CUDA on Ubuntu 14.04",
+               "type": "url",
+               "url": "https://gist.github.com/alexlee-gk/76a409f62a53883971a18a11af93241b"
+            }, {
+               "date_added": "13268284534642591",
+               "guid": "29730931-8194-46ad-981c-f6e6db94f301",
+               "id": "34",
+               "name": "Force Xorg to use integrated Intel graphics / Newbie Corner / Arch Linux Forums",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=243402"
+            }, {
+               "date_added": "13268284534642847",
+               "guid": "7eac9441-840f-49c4-9b39-45f941356629",
+               "id": "35",
+               "name": "Xorg file help! External monitor off eGPU + Laptop monitor off intel graphics - Newbie Corner - Manjaro Linux Forum",
+               "type": "url",
+               "url": "https://archived.forum.manjaro.org/t/xorg-file-help-external-monitor-off-egpu-laptop-monitor-off-intel-graphics/148060"
+            }, {
+               "date_added": "13268284534642982",
+               "guid": "6b049d42-2ad9-4c1a-9525-5fc19b1d67d3",
+               "id": "36",
+               "name": "[Solved] Location of Xorg log file / Forum & Wiki discussion / Arch Linux Forums",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=204547"
+            }, {
+               "date_added": "13268284534643085",
+               "guid": "20055794-856c-458e-abd3-8ed333fa917b",
+               "id": "37",
+               "name": "How to fix input devices after xserver-xorg-core upgrade? - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/891670/how-to-fix-input-devices-after-xserver-xorg-core-upgrade"
+            } ],
+            "date_added": "13268284534642188",
+            "date_modified": "13268284534643085",
+            "guid": "46e9fcec-77a3-4100-81bf-556ea8ef9372",
+            "id": "31",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "date_added": "13268293113723083",
+            "guid": "2ea834f1-dd69-47de-bf58-58a348b2dc09",
+            "id": "39",
+            "name": "bspwm dual moniitor with xorg config - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=bspwm+dual+moniitor+with+xorg+config&oq=bspwm+dual+moniitor+with+xorg+config&aqs=chrome..69i57.10055j0j1&sourceid=chrome&ie=UTF-8"
+         } ],
+         "date_added": "13260512387219332",
+         "date_modified": "13268293113723083",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13260512387219335",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13260512387219338",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

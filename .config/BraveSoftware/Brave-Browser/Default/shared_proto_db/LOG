@@ -1,0 +1,12 @@
+2021/06/22-07:06:19.932 4b9e Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/MANIFEST-000001
+2021/06/22-07:06:19.933 4b9e Recovering log #43
+2021/06/22-07:06:19.994 4b9e Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/000043.log 
+2021/06/22-12:10:29.895 7c24 Level-0 table #49: started
+2021/06/22-12:10:29.984 7c24 Level-0 table #49: 205100 bytes OK
+2021/06/22-12:10:30.029 7c24 Delete type=0 #43
+2021/06/22-12:16:52.181 7e23 Level-0 table #51: started
+2021/06/22-12:16:52.245 7e23 Level-0 table #51: 64093 bytes OK
+2021/06/22-12:16:52.274 7e23 Delete type=0 #48
+2021/06/22-12:23:14.454 808a Level-0 table #53: started
+2021/06/22-12:23:14.523 808a Level-0 table #53: 64065 bytes OK
+2021/06/22-12:23:14.555 808a Delete type=0 #50

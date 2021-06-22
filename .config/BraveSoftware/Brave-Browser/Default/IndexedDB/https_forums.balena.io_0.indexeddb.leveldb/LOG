@@ -1,0 +1,6 @@
+2021/06/12-17:22:22.484 1485 Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.balena.io_0.indexeddb.leveldb since it was missing.
+2021/06/12-17:22:22.553 1485 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.balena.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-17:23:14.005 1500 Level-0 table #5: started
+2021/06/12-17:23:14.033 1500 Level-0 table #5: 4121 bytes OK
+2021/06/12-17:23:14.057 1500 Delete type=0 #3
+2021/06/12-17:23:14.058 1500 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

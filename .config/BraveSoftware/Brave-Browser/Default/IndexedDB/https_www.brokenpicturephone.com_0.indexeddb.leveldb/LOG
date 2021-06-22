@@ -1,0 +1,6 @@
+2021/05/20-23:49:39.467 10cd7 Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.brokenpicturephone.com_0.indexeddb.leveldb since it was missing.
+2021/05/20-23:49:39.566 10cd7 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.brokenpicturephone.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/20-23:59:49.255 112dd Level-0 table #5: started
+2021/05/20-23:59:49.288 112dd Level-0 table #5: 7612 bytes OK
+2021/05/20-23:59:49.314 112dd Delete type=0 #3
+2021/05/20-23:59:49.314 112dd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

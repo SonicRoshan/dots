@@ -1,0 +1,15 @@
+2021/06/13-17:44:33.525 61d7 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-17:44:33.526 61d7 Recovering log #4
+2021/06/13-17:44:33.537 61d7 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000004.log 
+2021/06/13-18:01:14.987 94cd Level-0 table #8: started
+2021/06/13-18:01:15.015 94cd Level-0 table #8: 803 bytes OK
+2021/06/13-18:01:15.044 94cd Delete type=0 #4
+2021/06/13-18:01:15.044 94cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/13-18:01:15.044 94cd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x19\x002\x002\x009\x004\x007\x006\x005\x00_\x002\x004\x009\x00_\x001\x006\x002\x003\x005\x000\x003\x004\x003\x008\x006\x006\x000' @ 121 : 1
+2021/06/13-18:01:15.044 94cd Compacting 1@1 + 1@2 files
+2021/06/13-18:01:15.074 94cd Generated table #9@1: 42 keys, 1138 bytes
+2021/06/13-18:01:15.074 94cd Compacted 1@1 + 1@2 files => 1138 bytes
+2021/06/13-18:01:15.102 94cd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/13-18:01:15.102 94cd Delete type=2 #5
+2021/06/13-18:01:15.102 94cd Delete type=2 #8
+2021/06/13-18:01:15.102 94cd Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x19\x002\x002\x009\x004\x007\x006\x005\x00_\x002\x004\x009\x00_\x001\x006\x002\x003\x005\x000\x003\x004\x003\x008\x006\x006\x000' @ 121 : 1 .. (end); will stop at (end)

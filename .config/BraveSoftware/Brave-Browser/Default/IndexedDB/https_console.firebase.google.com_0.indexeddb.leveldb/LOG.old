@@ -1,0 +1,45 @@
+2021/06/16-18:15:43.346 381 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/16-18:15:43.346 381 Recovering log #169
+2021/06/16-18:15:43.379 381 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/000169.log 
+2021/06/16-18:15:43.380 381 Delete type=2 #168
+2021/06/16-18:15:44.251 381 Level-0 table #174: started
+2021/06/16-18:15:44.576 381 Level-0 table #174: 1714 bytes OK
+2021/06/16-18:15:45.161 381 Delete type=0 #169
+2021/06/16-18:15:45.257 381 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 2406 : 1
+2021/06/16-18:15:45.257 381 Compacting 1@0 + 1@1 files
+2021/06/16-18:15:45.396 381 Generated table #175@0: 50 keys, 1619 bytes
+2021/06/16-18:15:45.396 381 Compacted 1@0 + 1@1 files => 1619 bytes
+2021/06/16-18:15:45.555 381 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/16-18:15:45.555 381 Delete type=2 #174
+2021/06/16-18:15:45.555 392 Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 2406 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/16-18:17:05.793 383 Level-0 table #177: started
+2021/06/16-18:17:05.843 383 Level-0 table #177: 1715 bytes OK
+2021/06/16-18:17:05.894 383 Delete type=2 #171
+2021/06/16-18:17:05.894 383 Delete type=0 #173
+2021/06/16-18:17:05.894 383 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 2449 : 1
+2021/06/16-18:17:05.894 383 Compacting 1@0 + 1@1 files
+2021/06/16-18:17:05.950 383 Generated table #178@0: 51 keys, 1586 bytes
+2021/06/16-18:17:05.950 383 Compacted 1@0 + 1@1 files => 1586 bytes
+2021/06/16-18:17:06.010 383 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/16-18:17:06.011 383 Delete type=2 #177
+2021/06/16-18:17:06.011 383 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 2449 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/16-19:01:52.106 1c67 Level-0 table #180: started
+2021/06/16-19:01:52.159 1c67 Level-0 table #180: 1440 bytes OK
+2021/06/16-19:01:52.211 1c67 Delete type=2 #175
+2021/06/16-19:01:52.211 1c67 Delete type=0 #176
+2021/06/16-19:01:52.212 1c67 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 2468 : 1
+2021/06/16-19:01:52.212 1c67 Compacting 1@0 + 1@1 files
+2021/06/16-19:01:52.251 1c67 Generated table #181@0: 52 keys, 1593 bytes
+2021/06/16-19:01:52.251 1c67 Compacted 1@0 + 1@1 files => 1593 bytes
+2021/06/16-19:01:52.286 1c67 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/16-19:01:52.286 1c67 Delete type=2 #180
+2021/06/16-19:01:52.286 1c67 Delete type=2 #178
+2021/06/16-19:01:52.286 1c67 Manual compaction at level-0 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 2468 : 1 .. (end); will stop at (end)
+2021/06/16-19:01:52.287 1c67 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 2476 : 1
+2021/06/16-19:01:52.287 1c67 Compacting 1@1 + 1@2 files
+2021/06/16-19:01:52.318 1c67 Generated table #182@1: 21 keys, 1279 bytes
+2021/06/16-19:01:52.318 1c67 Compacted 1@1 + 1@2 files => 1279 bytes
+2021/06/16-19:01:52.353 1c67 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/16-19:01:52.353 1c67 Delete type=2 #161
+2021/06/16-19:01:52.353 1c67 Delete type=2 #181
+2021/06/16-19:01:52.353 18ac Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x000\x003\x005\x000\x006\x006\x001\x008\x007\x009\x009\x00:\x00w\x00e\x00b\x00:\x00b\x007\x008\x00d\x003\x001\x00c\x001\x00a\x00e\x005\x007\x000\x00d\x003\x00b\x005\x00c\x003\x007\x005\x00a' @ 2476 : 1 .. (end); will stop at (end)

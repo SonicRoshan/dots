@@ -1,0 +1,6 @@
+2021/06/21-11:16:55.382 ada Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/21-11:16:55.382 ada Recovering log #92
+2021/06/21-11:16:55.389 ada Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000092.log 
+2021/06/21-11:18:18.591 adb Level-0 table #97: started
+2021/06/21-11:18:18.714 adb Level-0 table #97: 4180288 bytes OK
+2021/06/21-11:18:18.775 adb Delete type=0 #92

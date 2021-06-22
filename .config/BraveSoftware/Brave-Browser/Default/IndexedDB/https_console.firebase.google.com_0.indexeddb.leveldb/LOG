@@ -1,0 +1,7 @@
+2021/06/21-20:32:33.666 567b Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/21-20:32:33.680 567b Recovering log #179
+2021/06/21-20:32:33.680 567b Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_console.firebase.google.com_0.indexeddb.leveldb/000179.log 
+2021/06/21-20:32:33.828 5695 Level-0 table #185: started
+2021/06/21-20:32:33.860 5695 Level-0 table #185: 598 bytes OK
+2021/06/21-20:32:33.936 5695 Delete type=0 #179
+2021/06/21-20:32:33.937 5695 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)

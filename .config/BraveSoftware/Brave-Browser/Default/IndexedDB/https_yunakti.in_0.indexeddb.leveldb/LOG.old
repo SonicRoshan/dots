@@ -1,0 +1,15 @@
+2021/05/16-15:58:41.980 4862 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yunakti.in_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/16-15:58:41.980 4862 Recovering log #43
+2021/05/16-15:58:42.020 4862 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_yunakti.in_0.indexeddb.leveldb/000043.log 
+2021/05/16-18:57:01.778 80dc Level-0 table #48: started
+2021/05/16-18:57:01.887 80dc Level-0 table #48: 18642 bytes OK
+2021/05/16-18:57:02.007 80dc Delete type=0 #43
+2021/05/16-18:57:02.075 80dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/16-18:57:02.075 7d3f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00l\x00O\x00V\x00A\x00Y\x00C\x00C\x00S\x00z\x00G\x00s\x00h\x00d\x00n\x00A\x00m\x00o\x00C\x003\x00z\x002\x00C\x000\x00J\x00f\x00J\x00C\x00_\x00z\x00C\x005\x00g\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 1220 : 1
+2021/05/16-18:57:02.075 7d3f Compacting 1@1 + 1@2 files
+2021/05/16-18:57:02.138 7d3f Generated table #49@1: 20 keys, 2571 bytes
+2021/05/16-18:57:02.138 7d3f Compacted 1@1 + 1@2 files => 2571 bytes
+2021/05/16-18:57:02.472 7d3f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/16-18:57:02.473 7d3f Delete type=2 #48
+2021/05/16-18:57:02.473 7d3f Delete type=2 #45
+2021/05/16-18:57:02.485 7d3f Manual compaction at level-1 from '\x00\x01\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x00l\x00O\x00V\x00A\x00Y\x00C\x00C\x00S\x00z\x00G\x00s\x00h\x00d\x00n\x00A\x00m\x00o\x00C\x003\x00z\x002\x00C\x000\x00J\x00f\x00J\x00C\x00_\x00z\x00C\x005\x00g\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 1220 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/06/17-16:27:08.374 4ffd Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb since it was missing.
+2021/06/17-16:27:08.545 4ffd Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/17-16:27:44.965 4ffd Level-0 table #5: started
+2021/06/17-16:27:44.999 4ffd Level-0 table #5: 841 bytes OK
+2021/06/17-16:27:45.034 4ffd Delete type=0 #3
+2021/06/17-16:27:45.034 4ffd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

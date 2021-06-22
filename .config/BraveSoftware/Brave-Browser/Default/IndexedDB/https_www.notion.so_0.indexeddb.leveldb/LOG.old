@@ -1,0 +1,15 @@
+2021/06/10-11:08:55.260 18db7 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/10-11:08:55.260 18db7 Recovering log #53
+2021/06/10-11:08:55.260 18db7 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000053.log 
+2021/06/10-11:09:51.947 190b9 Level-0 table #57: started
+2021/06/10-11:09:51.970 190b9 Level-0 table #57: 190 bytes OK
+2021/06/10-11:09:52.001 190b9 Delete type=0 #53
+2021/06/10-11:09:52.001 190b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/10-11:09:52.002 190b9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 6206 : 1
+2021/06/10-11:09:52.002 190b9 Compacting 1@1 + 1@2 files
+2021/06/10-11:09:52.029 190b9 Generated table #58@1: 303 keys, 10181 bytes
+2021/06/10-11:09:52.029 190b9 Compacted 1@1 + 1@2 files => 10181 bytes
+2021/06/10-11:09:52.059 190b9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/10-11:09:52.059 190b9 Delete type=2 #48
+2021/06/10-11:09:52.059 190b9 Delete type=2 #57
+2021/06/10-11:09:52.060 190b9 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 6206 : 1 .. (end); will stop at (end)

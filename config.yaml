@@ -1,0 +1,45 @@
+# List of packages to install from AUR.
+packages:
+  # Theming.
+  - polybar
+  - picom-ibhagwan-git
+  - papirus-icon-theme
+  #- oreo-nord-cursors-git
+  - materia-gtk-theme
+  - kvantum-theme-materia
+  - lxappearance
+  - qt5ct
+  - nitrogen
+  - rofi
+
+  # Fonts & Icons.
+  - ttf-rubik
+  - ttf-material-icons-git
+  - ttf-firacode
+
+  # Sysetem.
+  - thunar
+  - pamac-all
+
+  # Audio.
+  - pavucontrol
+  - pulseaudio
+  - pulseaudio-alsa
+  - pulseaudio-equalizer-ladspa
+
+  # Internet.
+  - brave-bin
+  - qutebrowser
+  - python-adblock
+
+  # Terminal.
+  - zsh-autosuggestions
+  - zsh-syntax-highlighting
+  - zsh
+
+  # Misc.
+  - droidcam
+  - git
+  - neofetch
+  - neovim
+  - notion-app-enhanced

@@ -1,0 +1,5 @@
+2021/04/01-19:18:29.309 1fc8e Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hindustantimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-19:19:01.677 1fc70 Level-0 table #5: started
+2021/04/01-19:19:01.710 1fc70 Level-0 table #5: 1675 bytes OK
+2021/04/01-19:19:01.741 1fc70 Delete type=0 #3
+2021/04/01-19:19:01.741 1fc70 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

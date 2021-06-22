@@ -1,0 +1,6 @@
+2021/06/13-09:59:38.619 134c Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportingnews.com_0.indexeddb.leveldb since it was missing.
+2021/06/13-09:59:38.822 134c Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sportingnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-10:00:29.249 134c Level-0 table #5: started
+2021/06/13-10:00:29.289 134c Level-0 table #5: 29923 bytes OK
+2021/06/13-10:00:29.319 134c Delete type=0 #3
+2021/06/13-10:00:29.319 134c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

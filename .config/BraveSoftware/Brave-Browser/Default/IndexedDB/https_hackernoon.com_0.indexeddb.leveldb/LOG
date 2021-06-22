@@ -1,0 +1,6 @@
+2021/05/14-17:38:59.795 8b7b Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
+2021/05/14-17:39:00.612 8b7b Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/14-17:40:17.210 7e09 Level-0 table #5: started
+2021/05/14-17:40:17.243 7e09 Level-0 table #5: 1151 bytes OK
+2021/05/14-17:40:17.284 7e09 Delete type=0 #3
+2021/05/14-17:40:17.284 7e09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

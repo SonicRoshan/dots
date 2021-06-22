@@ -1,0 +1,6 @@
+2021/05/14-17:47:07.788 8d45 Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb since it was missing.
+2021/05/14-17:47:07.875 8d45 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/14-17:47:12.251 8dfb Level-0 table #5: started
+2021/05/14-17:47:12.279 8dfb Level-0 table #5: 1258 bytes OK
+2021/05/14-17:47:12.306 8dfb Delete type=0 #3
+2021/05/14-17:47:12.307 8dfb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

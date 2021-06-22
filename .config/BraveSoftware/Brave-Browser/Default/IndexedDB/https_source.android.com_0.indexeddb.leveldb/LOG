@@ -1,0 +1,5 @@
+2021/03/22-19:46:35.429 ae84 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_source.android.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/22-20:06:27.607 b075 Level-0 table #5: started
+2021/03/22-20:06:27.631 b075 Level-0 table #5: 1823 bytes OK
+2021/03/22-20:06:27.660 b075 Delete type=0 #3
+2021/03/22-20:06:27.660 b075 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

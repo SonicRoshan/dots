@@ -1,0 +1,36 @@
+#! /bin/sh
+export QT_QPA_PLATFORMTHEME="qt5ct" &
+
+# Commands to run on startup.
+sxhkd &
+bspc rule -r "*"
+nitrogen --restore &
+sh ~/.config/polybar/launch.sh --arch &
+picom -bc &
+hotkeyer &
+
+# Dual Monitors
+xrandr --output HDMI-0 --primary --mode 1920x1080 --output DP1 --mode 1366x768 --left-of HDMI-0
+nvidia-settings --assign CurrentMetaMode="$(nvidia-settings -q CurrentMetaMode -t|tr '\n' ' '|sed -e 's/.*:: \(.*\)/\1\n/g' -e 's/}/, ForceCompositionPipeline = On}/g')" > /dev/null &
+
+
+# BSPWM config.
+bspc monitor HDMI-0 -d 1 2 3 4 5 6 7 8 9
+bspc monitor DP1 -d 0
+
+bspc config border_width         2
+bspc config window_gap          5
+
+bspc config focused_border_color "#0d47a1"
+bspc config normal_border_color "#121212"
+
+bspc config split_ratio          0.5
+bspc config borderless_monocle   true
+bspc config gapless_monocle      false
+bspc config bottom_padding 0
+bspc config -m HDMI-0 top_padding 24
+bspc config focus_follows_pointer true
+
+
+# Remove x cursor
+xsetroot -cursor_name left_ptr & 

@@ -1,0 +1,15 @@
+2021/05/13-15:28:09.128 682b Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_developer.android.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-15:28:09.128 682b Recovering log #11
+2021/05/13-15:28:09.128 682b Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_developer.android.com_0.indexeddb.leveldb/000011.log 
+2021/05/13-15:31:35.277 6875 Level-0 table #16: started
+2021/05/13-15:31:35.343 6875 Level-0 table #16: 834 bytes OK
+2021/05/13-15:31:35.437 6875 Delete type=0 #11
+2021/05/13-15:31:35.446 6875 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-15:31:35.446 6875 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 297 : 1
+2021/05/13-15:31:35.446 6875 Compacting 1@1 + 1@2 files
+2021/05/13-15:31:35.518 6875 Generated table #17@1: 29 keys, 787 bytes
+2021/05/13-15:31:35.518 6875 Compacted 1@1 + 1@2 files => 787 bytes
+2021/05/13-15:31:35.545 6875 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-15:31:35.546 6875 Delete type=2 #16
+2021/05/13-15:31:35.546 6875 Delete type=2 #13
+2021/05/13-15:31:35.546 6875 Manual compaction at level-1 from '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 297 : 1 .. (end); will stop at (end)

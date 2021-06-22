@@ -1,0 +1,6 @@
+2021/06/13-17:45:31.120 605e Creating DB /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_minecraftfanon.fandom.com_0.indexeddb.leveldb since it was missing.
+2021/06/13-17:45:31.233 605e Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_minecraftfanon.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/13-18:01:14.907 94cd Level-0 table #5: started
+2021/06/13-18:01:14.940 94cd Level-0 table #5: 1910 bytes OK
+2021/06/13-18:01:14.986 94cd Delete type=0 #3
+2021/06/13-18:01:14.987 94cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

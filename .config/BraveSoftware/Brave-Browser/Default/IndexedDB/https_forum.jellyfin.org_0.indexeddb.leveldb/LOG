@@ -1,0 +1,5 @@
+2021/04/01-21:52:57.302 227f4 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.jellyfin.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/01-21:53:37.835 22b3b Level-0 table #5: started
+2021/04/01-21:53:37.883 22b3b Level-0 table #5: 88643 bytes OK
+2021/04/01-21:53:37.915 22b3b Delete type=0 #3
+2021/04/01-21:53:37.916 22b3b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

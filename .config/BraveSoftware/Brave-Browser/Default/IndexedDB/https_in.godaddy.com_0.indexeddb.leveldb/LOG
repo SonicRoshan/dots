@@ -1,0 +1,15 @@
+2021/06/09-17:52:11.014 f528 Reusing MANIFEST /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-17:52:11.015 f528 Recovering log #4
+2021/06/09-17:52:11.015 f528 Reusing old log /home/roshan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.godaddy.com_0.indexeddb.leveldb/000004.log 
+2021/06/09-17:52:44.993 f69d Level-0 table #8: started
+2021/06/09-17:52:45.018 f69d Level-0 table #8: 968 bytes OK
+2021/06/09-17:52:45.046 f69d Delete type=0 #4
+2021/06/09-17:52:45.062 f69d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/09-17:52:45.062 f69d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 100 : 1
+2021/06/09-17:52:45.062 f69d Compacting 1@1 + 1@2 files
+2021/06/09-17:52:45.093 f69d Generated table #9@1: 22 keys, 767 bytes
+2021/06/09-17:52:45.093 f69d Compacted 1@1 + 1@2 files => 767 bytes
+2021/06/09-17:52:45.120 f69d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/09-17:52:45.121 f69d Delete type=2 #5
+2021/06/09-17:52:45.121 f69d Delete type=2 #8
+2021/06/09-17:52:45.121 f69d Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 100 : 1 .. (end); will stop at (end)
